@@ -35,11 +35,11 @@ Cuando este todo bien configurado, hacemos click en  **Create Repository**
 Una vez dentro de nuestro repositorio podemos crear, subir o encontrar archivos. Vamos a crear un archivo: 
 
 
-![Creación de un archivo]()
+![Creación de un archivo](https://github.com/John-DAW/Manual_De_GitHub/blob/master/images/archivo_prueba.png?raw=true)
 
 Se ha creado un archivo **prueba.txt**. Ahora tenemos que hacer un **commit** para que resida en nuestro repositorio. 
 
-![Commit de archivo prueba.txt]()
+![Commit de archivo prueba.txt](https://github.com/John-DAW/Manual_De_GitHub/blob/master/images/commit_archivo_prueba.png?raw=true)
 
 Necesitamos crear un pequeño resumen de los archivos que vamos a modificar del repositorio. Este paso no se puede omitir. Lo que si que es opcional es si queremos añadir más información del commit que vamos a realizar. 
 
